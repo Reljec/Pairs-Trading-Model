@@ -5,7 +5,7 @@
 
 ## What's in here
 
-This is the Python model behind my report on the LLOY/NWG pairs trade. The report is the polished academic version. This file is closer to build notes: how I actually put the model together, what I used to learn the parts I didn't already know, and what I'd do differently if I ran it again.
+This is the Python model behind my report on the LLOY/NWG pairs trade. The report is the polished academic version created for my Behavioural Finance module at my unviersity. This file is closer to build notes: how I actually put the model together, what I used to learn the parts I didn't already know, and what I'd do differently if I ran it again.
 
 ## Why I picked pairs trading
 
